@@ -1,2 +1,5 @@
 # tinder-liker
-noo ept liker for tinder
+- Open your browser
+- Close your eyes
+- Keep your breath
+- And paste it to console (F12)
